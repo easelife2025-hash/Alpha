@@ -1,0 +1,6 @@
+{
+  "name": "Alpha Fitness | Nerul Navi Mumbai",
+  "description": "Premium strength & conditioning fitness center in Nerul, Navi Mumbai. Rated 4.9 stars by 349+ members. State-of-the-art equipment, certified personal training & flexible memberships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
